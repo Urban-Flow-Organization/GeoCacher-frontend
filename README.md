@@ -16,7 +16,7 @@
 ## Description
 GeoCacher is an online application designed for the research of specific points of interest within selected regions of Europe.
 
-| Field        | Value                                      |
+
 |--------------|--------------------------------------------|
 | Dependencies | MongoDB, PostgreSQL, NGSI Broker, Orion   |
 | Contacts     | giovanniluca.dacierno@eng.it, rita.gaeta@eng.it |
